@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayan Sheikh</h1>
-<h3 align="center">A Passionate Full stack Developer , Tech enthuist .Learning New things everyday to be a better Developer</h3>
+<h3 align="center">A Passionate full-stack developer and tech enthusiast.Learning New Things Every Day to be a Better Developer</h3>
 
-- 🔭 I’m currently working on **Real Time Content Creation with the Help of LLM's for Boring Lectures and Presentation**
+- 🔭 I’m currently working on **Real-Time Content Creation with the Help of LLMs for Boring Lectures and Presentations**
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👯 I’m looking to collaborate on **MERN Stack , Golang .**
+- 👯 I’m looking to collaborate on **MERN Stack , Golang Projects .**
 
-- 💬 Ask me about **Reactjs , Golang , javascript**
+- 💬 Ask me about **Reactjs , Golang , Javascript**
 
 - 📫 How to reach me **ayansheikh52@gmail.com**
 
