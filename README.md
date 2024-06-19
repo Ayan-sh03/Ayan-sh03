@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Real-Time Content Creation with the Help of LLMs for Boring Lectures and Presentations**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👯 I’m looking to collaborate on **MERN Stack , Golang Projects .**
 
