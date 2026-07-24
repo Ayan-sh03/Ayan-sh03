@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan Sheikh</h1>
-<h3 align="center">A Passionate full-stack developer and tech enthusiast.Learning New Things Every Day to be a Better Developer</h3>
 
 
-- 👯 I’m looking to collaborate on **MERN Stack , Golang Projects .**
-
-- 💬 Ask me about **Reactjs , Golang , Javascript, Agents**
 
 - 📫 How to reach me **ayansheikh52@gmail.com**
 
@@ -34,6 +30,3 @@
     </td>
   </tr>
 </table>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayan-sh03&" alt="ayan-sh03" /></p>
