@@ -21,10 +21,10 @@
 
 ### Tech
 
-`Go` `Rust` `TypeScript` `Python` `PostgreSQL` `Docker` `Next.js` `LLMs / RAG`
+Go / Rust / TypeScript / Python / PostgreSQL / Docker / Next.js / LLMs & RAG
 
 ### Connect
 
-[Twitter](https://twitter.com/ayan_sh003) · [LinkedIn](https://linkedin.com/in/ayan-sh003) · [LeetCode](https://leetcode.com/ayan879) · [CodeChef](https://www.codechef.com/users/ayan_sh03)
+[Twitter](https://twitter.com/ayan_sh003) | [LinkedIn](https://linkedin.com/in/ayan-sh003) | [LeetCode](https://leetcode.com/ayan879) | [CodeChef](https://www.codechef.com/users/ayan_sh03)
 
 Email: ayansheikh52@gmail.com
